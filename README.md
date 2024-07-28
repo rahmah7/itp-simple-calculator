@@ -1,5 +1,3 @@
-x=5
-y=2
 def add(x,y):
   return x+y
   
@@ -8,26 +6,29 @@ def subtract(x,y):
 
 def multiply(x,y):
   return x*y
+print("Step 1")
 
 def Divide(x,y):
   return x/y
+  
+print("Step 2")
 
 def Square(x):
-  return x**2
+  pass
 
 def square(y):
-  return y**2
+  pass
 
-def power(x,y)
-  return pow(x,y)
+def pow(x,y)
+  pass
 
 def SquareRoot(x):
-  return sqrt(x)
+  pass
 
 def SquareRoot(y):
-  return sqrt(y)
+  pass
 
-
+print("Step 3")
   
   
   
