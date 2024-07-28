@@ -19,7 +19,7 @@ def Square(x):
 def square(y):
   pass
 
-def pow(x,y)
+def power(x,y)
   pass
 
 def SquareRoot(x):
